@@ -11,7 +11,7 @@ This code requires a fixed 8-Bit key while performing all the core steps for S-D
 
 -Key Schedule (via Recurrsion)
 
--Feistal function (via recursion)
+-Feistal function (via Recursion)
 
 -16 Rounds for Encryption and Decryption
 
