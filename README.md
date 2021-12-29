@@ -3,7 +3,7 @@ Simplified DES (Data Encryption Standard) Implementation in pure Python language
 cross-platform integration reasons.This project requires only Python Interpretor to run this pure 
 python-based program for S-DES!
 
-This code requires a fixed 8-Bit key while performing all the core steps for S-DES i.e.
+This code requires a 8 Character key while performing all the core steps for S-DES i.e.
 
 -Padding
 
