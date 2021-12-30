@@ -360,7 +360,6 @@ for _bytes in range(8):
     _binary.append(int(ciphertext[_bytes], 2))
     st_cipher += chr(_binary[_bytes])
 
-
 print(f'Cipher Text in ASCII Characters is:{st_cipher}')
 
 print(f'{bcolors.OKCYAN}Left at the end of Enc is:{left}')
@@ -369,7 +368,6 @@ print(f'Right at the end of Enc is:{right}')
 print(f'{bcolors.BOLD}___________________________DECRYPTION PHASE______________________________')
 
 decrypt(left, right, _roundkey_arr)  # calling decrypt method for cipher text!!!
-
 
 _d_plantext = left + right
 print(f'{bcolors.OKGREEN}Plain Text in Bits is: {_d_plantext}')
