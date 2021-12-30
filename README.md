@@ -1,4 +1,4 @@
-# DESImplement
+# DES Implementation (A Comprehensive Walkthrough for DES Learners)
 Simplified DES (Data Encryption Standard) Implementation in pure Python language for performance and 
 cross-platform integration reasons.This project requires only Python Interpretor to run this pure 
 python-based program for S-DES!
